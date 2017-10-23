@@ -1,0 +1,10 @@
+C:\CALCULADORA\bin\Debug\netcoreapp2.0\CALCULADORA.deps.json
+C:\CALCULADORA\bin\Debug\netcoreapp2.0\CALCULADORA.runtimeconfig.json
+C:\CALCULADORA\bin\Debug\netcoreapp2.0\CALCULADORA.runtimeconfig.dev.json
+C:\CALCULADORA\bin\Debug\netcoreapp2.0\CALCULADORA.dll
+C:\CALCULADORA\bin\Debug\netcoreapp2.0\CALCULADORA.pdb
+C:\CALCULADORA\obj\Debug\netcoreapp2.0\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\CALCULADORA\obj\Debug\netcoreapp2.0\CALCULADORA.AssemblyInfoInputs.cache
+C:\CALCULADORA\obj\Debug\netcoreapp2.0\CALCULADORA.AssemblyInfo.cs
+C:\CALCULADORA\obj\Debug\netcoreapp2.0\CALCULADORA.dll
+C:\CALCULADORA\obj\Debug\netcoreapp2.0\CALCULADORA.pdb
